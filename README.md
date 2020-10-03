@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email
+*** andrewdiaz951, RemoteSystemAuditPowershell, twitter_handle, email
 -->
 
 
@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/andrewdiaz951/RemoteSystemAuditPowershell">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     YOUR_SHORT_DESCRIPTION
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/andrewdiaz951/RemoteSystemAuditPowershell"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/andrewdiaz951/RemoteSystemAuditPowershell">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/andrewdiaz951/RemoteSystemAuditPowershell/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/andrewdiaz951/RemoteSystemAuditPowershell/issues">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+`andrewdiaz951`, `RemoteSystemAuditPowershell`, `twitter_handle`, `email`
 
 
 ### Built With
@@ -108,7 +108,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/github_username/repo_name.git
+git clone https://github.com/andrewdiaz951/RemoteSystemAuditPowershell.git
 ```
 2. Install NPM packages
 ```sh
@@ -129,7 +129,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/andrewdiaz951/RemoteSystemAuditPowershell/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/andrewdiaz951/RemoteSystemAuditPowershell](https://github.com/andrewdiaz951/RemoteSystemAuditPowershell)
 
 
 
@@ -175,16 +175,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/andrewdiaz951/repo.svg?style=flat-square
+[contributors-url]: https://github.com/andrewdiaz951/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/andrewdiaz951/repo.svg?style=flat-square
+[forks-url]: https://github.com/andrewdiaz951/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/andrewdiaz951/repo.svg?style=flat-square
+[stars-url]: https://github.com/andrewdiaz951/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/andrewdiaz951/repo.svg?style=flat-square
+[issues-url]: https://github.com/andrewdiaz951/repo/issues
+[license-shield]: https://img.shields.io/github/license/andrewdiaz951/repo.svg?style=flat-square
+[license-url]: https://github.com/andrewdiaz951/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/andrewdiaz951
 [product-screenshot]: images/screenshot.png
