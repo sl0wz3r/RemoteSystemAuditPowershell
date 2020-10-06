@@ -165,7 +165,7 @@ Project Link: [https://github.com/andrewdiaz951/RemoteSystemAuditPowershell](htt
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [AppCompatCacheParser by David Howell](https://github.com/davidhowell-tx/Invoke-LiveResponse)
 * []()
 * []()
 
